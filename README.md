@@ -67,7 +67,7 @@ From clean UI/UX to backend integrations and deployments, I strive to deliver fu
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hanan0007&icon=0&color=6" alt="Profile Visit Counter" />
+  <img src="https://img.shields.io/badge/Profile%20Views-1234-blue" />
 </p>
 
 ---
