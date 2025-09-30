@@ -1,52 +1,75 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hanan</h1>
-<h3 align="center">Senior Flutter Developer | Team Lead | Mobile & Web Enthusiast</h3>
+<!-- Profile README for @hanan0007 -->
+
+<h1 align="center">✨ Hi there, I'm Muhammad Hanan ✨</h1>
+<h3 align="center">🚀 Senior Flutter Developer | 📱 Team Lead | 🌍 Tech Explorer</h3>
 
 ---
 
-## 💫 About Me
-I'm **Muhammad Hanan**, a **Senior Flutter Developer and Team Leader**, passionate about building smooth, high-performance mobile applications.  
-I also work with **Swift** and **Kotlin** for native apps, and I’ve created projects using **JavaScript** and **TypeScript**.  
-From coding mobile apps to deploying full web solutions, I enjoy tackling challenging problems and leading teams to deliver scalable products. 🚀  
+## 👨‍💻 About Me
+I’m **Muhammad Hanan**, a **Senior Flutter Developer & Team Leader** who loves crafting elegant, high-performance mobile applications.  
+With experience in **cross-platform (Flutter/Dart)** and **native (Swift & Kotlin)** development, I enjoy building solutions that scale and make an impact.  
 
-- 🔭 Currently leading **Flutter teams** to build cross-platform apps  
-- 💡 Experienced with **native iOS (Swift)** and **Android (Kotlin)**  
-- 🌐 Skilled in **web deployment** and server management  
-- 👨‍💻 Open to collaborations and open-source contributions  
-- 📧 Reach me at **mohammadhanan824@gmail.com**
+💡 Beyond mobile apps, I also work with **JavaScript, TypeScript, Python**, and databases like **SQL** & **Hive**.  
+From clean UI/UX to backend integrations and deployments, I strive to deliver full-stack value.  
 
----
-
-## 🌐 Socials  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/) 
-[![X](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/) 
+### 🌟 Highlights
+- 🔭 Leading teams to build cross-platform apps with Flutter  
+- 🍎 Developing native iOS apps with **Swift**  
+- 🤖 Building Android apps with **Kotlin**  
+- 🌐 Deploying web apps & services to production servers  
+- 💬 Always open for **collaborations & open-source contributions**  
+- 📧 Reach me: **mohammadhanan824@gmail.com**
 
 ---
 
-## 💻 Tech Stack
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Hive](https://img.shields.io/badge/Hive-%23FFB300.svg?style=for-the-badge&logo=hive&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+## 🌐 Connect with Me
+*(Update with your real links later)*  
+
+<p align="center">
+  <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/"><img src="https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white" /></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hive-%23FFB300.svg?style=for-the-badge&logo=hive&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=hanan0007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hanan0007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hanan0007&theme=dark&hide_border=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanan0007&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanan0007&theme=radical&hide_border=false" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanan0007&theme=radical&hide_border=false&layout=compact" height="150em" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=hanan0007&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=hanan0007&icon=0&color=6" alt="Profile Visit Counter" />
+</p>
 
-<!-- Proudly created for @hanan0007 -->
+---
+
+<p align="center">⚡️ Crafted with passion by <b>@hanan0007</b> ⚡️</p>
